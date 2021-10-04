@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 Hi there
 
 🎓 Im Bleepo. Im a High School student
 
