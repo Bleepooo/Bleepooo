@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-Im Bleepo. Im a High School student
+🎓 Im Bleepo. Im a High School student
 
 Im interested in Backend Development and Networking
 
 I primarily develop in java
 
-### Im currently working on
+### 💻 Im currently working on
 * [BleeposExploitFixer](https://github.com/Bleepooo/BleeposExploitFixer)
 * [BleeposAuthTimer](https://github.com/Bleepooo/BleepoAuthTimer)
 * [TXMC](https://github.com/Bleepooo/BleeposAuthTimer)
