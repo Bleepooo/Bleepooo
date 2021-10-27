@@ -10,8 +10,8 @@ I primarily develop in java
 
 ### 💻 Im currently working on
 * [BleeposExploitFixer](https://github.com/Bleepooo/BleeposExploitFixer)
-* [BleeposAuthTimer](https://github.com/Bleepooo/BleepoAuthTimer)
-* [TXMC](https://github.com/Bleepooo/BleeposAuthTimer)
+* [CPvP.Network](https://discord.gg/5b6JcMzDxR)
+* [L2X9](https://l2x9.dev)
 
 ### 📫 Contact Me
 * [Email](mailto:6n6t.org@gmail.com)
