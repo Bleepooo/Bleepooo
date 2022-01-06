@@ -9,13 +9,10 @@
 I primarily develop in java
 
 ### 💻 Im currently working on
-* [BleeposExploitFixer](https://github.com/Bleepooo/BleeposExploitFixer)
-* [CPvP.Network](https://discord.gg/5b6JcMzDxR)
-* [L2X9](https://l2x9.dev)
+* Nothing
 
 ### 📫 Contact Me
 * [Email](mailto:6n6t.org@gmail.com)
-* Join my [Discord](https://)
 * Bleepo#2737
 
 ### 🧰 Languages and Tools:
