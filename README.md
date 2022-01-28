@@ -9,11 +9,12 @@
 I primarily develop in java
 
 ### 💻 Im currently working on
-* BlackHack
+* [Omega](https://discord.gg/85PaUUjHXP)
+* [cpvp.network](https://discord.gg/hdGe2Cu6Az)
 
 ### 📫 Contact Me
 * [Email](mailto:6n6t.org@gmail.com)
-* Bleepo#2737
+* Bleepo#0001
 
 ### 🧰 Languages and Tools:
 <p align="center">
