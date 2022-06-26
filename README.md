@@ -9,12 +9,10 @@
 I primarily develop in java
 
 ### 💻 Im currently working on
-* [Omega](https://discord.gg/85PaUUjHXP)
-* [cpvp.network](https://discord.gg/hdGe2Cu6Az)
+* [Memeware](https://discord.gg/poop)
 
 ### 📫 Contact Me
-* [Email](mailto:6n6t.org@gmail.com)
-* Bleepo#0001
+* Bleepo#2561
 
 ### 🧰 Languages and Tools:
 <p align="center">
